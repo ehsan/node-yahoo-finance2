@@ -27,6 +27,7 @@ const commonSymbols = [
   "GC=F", // Futures (#449),
   // "APS.AX", // .AX (#461); chart, historical, insights, recommendations, quoteSummary // Delisted
   "SWVXX", // Money Market (#905)
+  "ACO.X.TO", // TSX
 ];
 
 interface testSymbolsOptions {
